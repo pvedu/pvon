@@ -1,5 +1,5 @@
 # pv_online
-Jupyter notebooks for using the photovoltaic library with a focus on using binder.
+Jupyter notebooks with lots of examples of using the photovoltaic library.
 
 You can run code online at:  
 https://mybinder.org/v2/gh/pvedu/pvon/master
