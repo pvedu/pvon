@@ -1,4 +1,4 @@
-# pv_online
+# pvon
 Jupyter notebooks with lots of examples of using the photovoltaic library.
 
 You can run code online at:  
