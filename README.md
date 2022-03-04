@@ -1,12 +1,17 @@
 # pvon
 Jupyter notebooks for using the photovoltaic library.
 ## Usage
-### Download
+The easiest way to view and run the notebooks is with Google Colab
 
 ### Google Colab
-Google Colab is free. I forget if you have to sign up for it or it comes automatically with a Google Account. Anyway, once you have figured out how to sign into a colab account. You should be able to click on the links below and it will open in colab and you can run the code. 
+Google Colab is free with a Google account. Login to a Google account and then click one of the links below. It should load and run.
 
 
 [solar_position](https://githubtocolab.com/pvedu/pvon/blob/master/solar_position.ipynb)
+[semiconductor](https://githubtocolab.com/pvedu/pvon/blob/master/semiconductor.ipynb)
+[antireflection](https://githubtocolab.com/pvedu/pvon/blob/master/antireflection.ipynb)
 
-Alternatively, insert tocolab just after github in the link so https://github.com/... becomes https://githubtocolab.com
+Alternatively, insert tocolab just after github in the link so:
+ https://github.com/pvedu/pvon/blob/master/solar_position.ipynb becomes: https://githubtocolab.com/pvedu/pvon/blob/master/solar_position.ipynb
+
+### Download
